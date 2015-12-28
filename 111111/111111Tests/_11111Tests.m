@@ -1,6 +1,6 @@
 //
-//  MyTest11Tests.m
-//  MyTest11Tests
+//  _11111Tests.m
+//  111111Tests
 //
 //  Created by lanou3g on 15/12/28.
 //  Copyright © 2015年 dss. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface MyTest11Tests : XCTestCase
+@interface _11111Tests : XCTestCase
 
 @end
 
-@implementation MyTest11Tests
+@implementation _11111Tests
 
 - (void)setUp {
     [super setUp];
